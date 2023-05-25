@@ -1,0 +1,58 @@
+.footer-Mairie {
+    padding: 50px 0px;
+    background: #0E2258;
+    display: flex;
+    text-align: start;
+    color :#ffffff;
+    justify-content: center;
+    gap: 8rem;
+  margin-top: 20px;
+  align-content: flex-start;
+  width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .Texte-Cpyr{
+    margin-top: 40px;
+
+  padding: 10px;
+  border: 1px solid rgb(255, 255, 255);
+  box-sizing: border-box;
+  padding-bottom: 1px;
+ 
+    color :#ffffff;
+    text-align: center;
+
+  }
+  .newsletter{
+
+    text-align: right;
+    margin-right: 150px;
+
+  }
+
+  .INP-NEW{
+
+    background: transparent;
+    border: 3px solid #009fe3;
+   padding: 10px;
+   align-content: flex-start;
+
+   
+  }
+  .BT-NEW {
+background-color: #009fe3;
+  border: 3px solid #009fe3;
+ padding: 10px;
+ text-align: start;
+ color :#ffffff;
+
+
+ 
+}
+.news{
+  text-align: right;
+  margin-right: 150px;
+
+
+}

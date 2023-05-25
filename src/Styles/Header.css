@@ -1,0 +1,17 @@
+.Menu-H {
+    font-weight: 600;
+    font-size: 1rem;
+    color: #000000;
+    transition: 0.3s;
+  }
+  
+  .nav__wrapper d-flex align-items-center justify-content-between {
+    color: #df2020;
+  }
+  
+ .NAVb {
+  background-color: #f5f5f5;
+  border-radius: 50px;
+  margin-top: 10px;
+  font-family: "roboto";
+ }

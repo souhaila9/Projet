@@ -1,0 +1,88 @@
+
+.Mairie__slogon {
+padding-top: 180px;
+line-height: 27px;
+margin-left: 50px;
+
+}
+
+.mb-3 {
+color: rgb(5, 19, 52);
+width: 647px;
+font-size: 48px;
+text-align: inherit;
+z-index: 16;
+line-height: 45px;
+text-align: start;
+margin-right: 50px;
+}
+.fff {
+     height: 500px important!;
+    
+   
+}
+.mb-4 {
+
+    padding-top: 20px;
+    text-align: start;
+    font-size: 20px;
+    color: rgb(135, 135, 135);
+
+}
+
+
+.Insc__Commun-btn {
+
+    border-radius: 3px;
+    padding: 10px 40px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: rgb(0, 122, 255);
+    border-color: transparent;
+    color: rgb(255, 255, 255);
+    align-items: align-items-center ;
+    margin-left: 45px;
+
+}
+
+
+.Bt__Insc {
+    padding-top: 20px;
+    display: flex;
+    align-items: flex-start;
+}
+
+
+.R_Ow {
+
+    align-items: center;
+
+}
+
+.Contact_tel{
+
+ color: rgb(0, 122, 255);
+}
+
+.mb-2{
+    color: rgb(5, 19, 52);
+    font-size: 38px;
+    text-align: inherit;
+    z-index: 16;
+    line-height: 40px;
+    text-align: start;
+    padding-top: 80px;
+} 
+
+.mb-1{
+    text-align: start;
+    font-size: 16px;
+    color: rgb(135, 135, 135);
+    line-height: 27px;
+
+} 
+
+.Info__mairie{
+    background-color: rgb(0, 122, 255);
+margin-top: 500px;
+}

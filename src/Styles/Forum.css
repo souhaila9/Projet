@@ -1,0 +1,58 @@
+.Form{
+
+    color: #010a22;
+    border-radius: 5px;
+    
+    padding-top: 50px;
+    align-items: flex-start;
+    background-color: #fafbfd;
+    height: 500px;
+
+
+}
+
+
+.BTn{
+     padding: 4px;
+    margin-top: 10px;
+    font-size: 20px;
+    width: 150px;
+    color:#ffffff;
+    background-color: #1aa1e3;
+    margin-right: 40 px;
+    margin-left: 20px;
+    border: 0px;
+ 
+
+
+}
+.Fr_con {
+
+margin-top: 50px;    
+    border-color: #010a22;
+    border-top-style: inherit;
+    border-radius: 3px;
+
+}
+
+.InP{
+
+    
+    border: 10px;
+    border-radius: 3px;
+    padding: 10px 30px;
+    margin-top: 20px;
+    width: 300px;
+    border-color: #350000;
+    background-color: #dddddd;
+
+
+}
+.Ul-For{
+   
+   background-color: #fdfdfd;
+   width: 600px;
+   text-align: start;
+   margin-top: 20px;
+
+}
